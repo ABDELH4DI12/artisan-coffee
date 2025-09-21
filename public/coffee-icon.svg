@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Coffee cup -->
+  <path d="M6 12v12a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V12H6z" fill="#8B4513"/>
+  
+  <!-- Handle -->
+  <path d="M22 14v6a2 2 0 0 0 4 0v-4a2 2 0 0 0-2-2h-2z" fill="#8B4513"/>
+  
+  <!-- Coffee -->
+  <rect x="8" y="14" width="12" height="10" rx="1" fill="#D2691E"/>
+  
+  <!-- Steam -->
+  <path d="M10 8c0-2 1-3 2-3s2 1 2 3" stroke="#E6E6FA" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  <path d="M14 6c0-2 1-3 2-3s2 1 2 3" stroke="#E6E6FA" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  <path d="M18 8c0-2 1-3 2-3s2 1 2 3" stroke="#E6E6FA" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Highlight -->
+  <ellipse cx="12" cy="18" rx="2" ry="1" fill="#F4A460" opacity="0.6"/>
+</svg>
